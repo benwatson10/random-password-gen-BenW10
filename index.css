@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;600;800&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Karla, Inter, sans-serif;
+    color: #ffff;
+    background-color: #bec6d1;
+   
+
+}
+
+section {
+    text-align: center !important;
+    margin: 30px;
+    background-color: #1F2937;
+    border-radius: 90px;
+}
+
+#intructions {
+    margin: 40px;
+    
+    
+}
+
+#gen-btn {
+    
+    background-color: #10B981;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 25px;
+    font-family: inherit;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+#slidecontainer {
+    display: flex;
+    width: 211px;
+    margin: 40px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+
+}
+
+
+p {
+    
+    margin-left: 90px !important;
+    text-align: center !important;
+    margin-bottom: 20px;
+    height: 39px;
+    border-radius: 90px;
+    margin: 40px;
+    background-color: #273549;
+    color: #55F991;    
+}
+
+.generated-pwords {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+
+#pass-1, #pass-2, #pass-3, #pass-4 {
+    
+    background-color: #273549;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 25px;
+    font-family: inherit;
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #fff;
+    
+}
