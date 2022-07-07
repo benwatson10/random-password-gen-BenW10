@@ -1,5 +1,4 @@
 # Random-Password-Gen-BenW
- JS practice
+<h2> JS practice </h2>
 
-<img src="https://github.com/benwatson10/Random-Password-Gen-BW10/blob/main/RPG-img.png?raw=true" alt="rpg-img>
-
+![image](https://user-images.githubusercontent.com/64148154/177861886-a2eabe81-80d0-4fba-8eb9-f0a8139488d5.png)
