@@ -22,7 +22,8 @@ section {
     text-align: center !important;
     margin: 30px;
     background-color: #1F2937;
-    border-radius: 90px;
+    border-radius: 20px;
+   ;
 }
 
 #intructions {
@@ -48,9 +49,11 @@ section {
     width: 211px;
     margin: 40px;
     border-radius: 6px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 
 }
+
+
 
 
 p {
